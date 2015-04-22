@@ -1,3 +1,7 @@
 стиль фигни какой нить
-ffhgrbgfbfgb
-vf]
+Для работы нам понадобится
+
+    Visual Studio 2012 c установленным asp.net mvc 4 (http://www.asp.net/mvc/mvc4)
+    MS SQL Server для работы с БД (http://www.microsoft.com/en-us/sqlserver/editions/2012-editions/express.aspx)
+    Умение работать с Mercurial или Git (http://habrahabr.ru/post/108443/)
+    Знания по C#
